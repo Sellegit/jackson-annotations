@@ -5,10 +5,12 @@ syntax: glob
 *.bak
 *.off
 *.old
+*.jar
 .DS_Store
 
 # building
 target
+/build/
 
 # Eclipse
 .classpath
