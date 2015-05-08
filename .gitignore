@@ -22,3 +22,5 @@ target
 *.iws
 /.idea/
 .gradle
+
+build/libs/*
